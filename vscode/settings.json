@@ -1,0 +1,11 @@
+{
+  "workbench.colorTheme": "Default Dark Modern",
+  "git.confirmSync": false,
+  "git.autofetch": true,
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
+  "editor.formatOnSave": true,
+  "editor.codeActionsOnSave": {
+    "source.organizeImports": "explicit",
+    "source.addMissingImports": "explicit"
+  }
+}
